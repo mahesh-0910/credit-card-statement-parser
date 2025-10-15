@@ -64,13 +64,6 @@ credit-card-parser/
 - **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
 - **Security**: Werkzeug 3.0.1
 
-## 📊 Supported Banks
-
-Currently optimized for:
-- Kotak Mahindra Bank
-- Generic credit card statement formats
-
-Can be extended to support additional banks by adding custom regex patterns.
 
 ## 🔧 Configuration
 
